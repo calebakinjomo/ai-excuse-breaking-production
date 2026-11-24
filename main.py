@@ -1,4 +1,5 @@
-"""One-line AI excuse for breaking production — make.fun bounty entry."""
+"""One-line AI excuse for breaking production — make.fun bounty entry.
+Prints the excuse to stdout and also writes it to entry.txt in the output directory."""
 
 import os
 
